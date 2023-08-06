@@ -1,0 +1,12 @@
+Grupo: 3
+
+Integrantes:
+- Valentina Roa
+- Andrea Cárdenas
+- Jeffry Amín
+
+Repositorio:
+https://github.com/JeffSynthpop/RETO-2-VFINAL.git
+
+Notas:
+En la carpeta del Github aparece el documento pdf del videojuego con su respectivo storyboard.
